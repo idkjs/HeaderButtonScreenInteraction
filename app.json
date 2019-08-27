@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "HeaderButtonScreenInteraction",
-    "description": "A basic ReasonExpo app.",
+    "description": "Demonstration Header Button in Reason React Native Navigation with Unstated.",
     "slug": "ReasonHeaderScreenDemo",
     "privacy": "public",
     "sdkVersion": "34.0.0",
@@ -25,6 +25,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "githubUrl": "https://github.com/idkjs/HeaderButtonScreenInteraction"
   }
 }
